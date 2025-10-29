@@ -1,7 +1,7 @@
-him= int(input("Hi there! Please enter your age:"))
+age= int(input("Hi there! Please enter your age:"))
 x= 1
 total=0
-while x<=him :
+while x<=age :
     total += x
     x += 1
     
