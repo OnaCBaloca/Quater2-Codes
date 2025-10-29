@@ -5,4 +5,4 @@ while x<=age :
     total += x
     x += 1
     
-print("The sum of all numbers from 1 to", him, "is :", total)
+print("The sum of all numbers from 1 to", age, "is :", total)
