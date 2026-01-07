@@ -1,2 +1,2 @@
-# Quater2-Codes
+# Quarter2-Codes
 In this repository it contains quarter 2 codes.
